@@ -1,2 +1,2 @@
-# Advanced-Excel-Course-for-Expert-Users
-This course is designed for users who already have a solid understanding of Excel basics and intermediate functionalities.
+# Advanced Excel Course for Expert Users
+This course is designed for users who already have a solid understanding of Excel basics and intermediate functionalities. The focus here will be on advanced topics, complex formulas, automation, data analysis, and customization. Upon completing this course, you will be equipped with the skills to leverage Excel’s full capabilities for complex data analysis, business intelligence, and automation tasks.
