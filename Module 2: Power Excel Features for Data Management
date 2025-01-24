@@ -1,0 +1,22 @@
+2.1 Power Query
+Power Query is a tool used for importing, cleaning, transforming, and analyzing data from various sources. It is ideal for automating repetitive data extraction tasks.
+•	Loading Data: Use Data > Get & Transform Data to import data from sources such as databases, web, Excel files, and more.
+•	Transforming Data: You can filter, merge, split, and transform data using the Power Query Editor.
+•	Example:
+  o	Combine data from multiple sheets or files into one dataset.
+  o	Clean data by removing duplicates or irrelevant columns, changing data types, etc.
+
+2.2 Power Pivot
+Power Pivot extends Excel’s capabilities to create sophisticated data models. It allows you to import large datasets, create relationships, and use DAX (Data Analysis Expressions) to build powerful calculations.
+•	Creating Data Models:
+  Power Pivot allows you to load data from multiple tables and create relationships between them.
+
+•	Example:
+  o	Load sales data and product data, then create a relationship between product IDs to analyze total sales by product.
+
+•	Using DAX:
+DAX functions allow for advanced calculations such as:
+  o	SUMX: Sum of an expression over a table.
+  o	CALCULATE: Used to evaluate an expression in a modified filter context.
+Example:
+  =CALCULATE(SUM(Sales[Amount]), Sales[Region] = "North")
