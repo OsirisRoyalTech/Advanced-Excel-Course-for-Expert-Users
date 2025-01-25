@@ -1,0 +1,26 @@
+3.1 Pivot Tables and Pivot Charts
+Pivot Tables and Pivot Charts are essential for summarizing and analyzing large datasets.
+•	Advanced Pivot Table Features: 
+  o	Multiple Consolidation Ranges: Combine multiple data sources into one Pivot Table.
+  o	Calculated Fields: Create custom calculations within a Pivot Table.
+Example:
+  =Sales - Costs could be a calculated field showing profit.
+•	Group Data:
+  Group data by date, category, etc., for better analysis. Example: Right-click a date field and choose Group to group data by months or years.
+
+3.2 Scenario Analysis and Data Tables
+•	What-If Analysis: Excel offers tools to perform scenario analysis. 
+  o	Data Tables: Create one-variable and two-variable data tables to see how changing input values affects the result.
+  o	Scenario Manager: Allows you to define different input scenarios (like best case, worst case, etc.) and see how they affect the outcome.
+
+3.3 Solver Add-in
+Solver is used to find optimal solutions for problems with constraints, such as maximizing profits or minimizing costs.
+•	Example:
+  You have a production process and want to maximize profit while staying within the limits of material resources. Solver helps you determine the best mix 
+  of products to produce.
+
+3.4 Statistical Functions
+Excel includes many statistical functions for deep analysis, such as:
+•	CORREL: Measures the correlation between two sets of data.
+•	LINEST: Performs linear regression analysis on data.
+•	FORECAST: Predicts future values based on existing data.
