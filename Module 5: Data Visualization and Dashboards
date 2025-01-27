@@ -1,0 +1,16 @@
+5.1 Advanced Charting Techniques
+Excel offers many options for visualizing complex data beyond the basic charts:
+•	Combo Charts: Combine different types of charts (e.g., line and column) to display multiple data series in one chart.
+•	Sparkline Charts: Small, cell-sized charts within a row or column that give a visual representation of trends.
+•	Dynamic Charts: Use named ranges or dynamic data validation lists to make charts update automatically based on user input.
+
+5.2 Creating Dashboards
+A dashboard aggregates multiple types of data and presents it in a visually accessible format. Here are key elements:
+•	Use PivotTables and PivotCharts for quick summarization.
+•	Slicers: Use slicers for interactive filtering of data.
+•	Conditional Formatting: Apply color coding or data bars for better visualization of key metrics.
+•	Forms: Create interactive forms and controls (like drop-down lists) that allow users to interact with the dashboard.
+
+5.3 Using Power BI with Excel
+Power BI is a business intelligence tool that integrates well with Excel. It allows you to create complex reports and dashboards that update in real time. 
+You can pull in data from Excel, create models, and share interactive visualizations.
