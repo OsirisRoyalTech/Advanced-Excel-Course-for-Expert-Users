@@ -1,0 +1,6 @@
+Problem: You want to multiply corresponding values in two ranges (A1:A10 and B1:B10) and then sum the results in one formula.
+
+Solution:
+Use an array formula:
+=SUM(A1:A10 * B1:B10)
+Press Ctrl + Shift + Enter to create an array formula.
