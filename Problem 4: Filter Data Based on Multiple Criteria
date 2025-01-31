@@ -1,0 +1,4 @@
+Problem: You want to filter rows based on multiple criteria (e.g., filter sales greater than 1000 and date is within the last month).
+
+Solution:
+Use the Filter feature under the Data tab. For complex filters, use Custom Filter to set multiple criteria.
