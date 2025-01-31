@@ -1,0 +1,7 @@
+Problem: You want to summarize sales by region and product category from a dataset.
+
+Solution:
+1.	Select the data.
+2.	Go to Insert > Pivot Table.
+3.	Drag Region to Rows, Product Category to Columns, and Sales Amount to Values.
+4.	Choose Sum as the summary function for Sales.
