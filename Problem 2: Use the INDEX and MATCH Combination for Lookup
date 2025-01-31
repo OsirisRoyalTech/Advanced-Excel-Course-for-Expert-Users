@@ -1,0 +1,6 @@
+Problem: You want to lookup a value in a table where the lookup value is in the first column, and return the corresponding value from another column.
+
+Solution:
+Use the INDEX & MATCH combination:
+=INDEX(B1:B10, MATCH(D1, A1:A10, 0))
+Where D1 is the lookup value.
