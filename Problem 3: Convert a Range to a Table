@@ -1,0 +1,4 @@
+Problem: You have a dataset and want to convert it into a structured table to use with sorting, filtering, and calculations.
+
+Solution:
+Select the data range and press Ctrl + T to convert the range into a Table.
