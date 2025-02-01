@@ -1,0 +1,6 @@
+Problem: You want to remove duplicate rows in a dataset.
+
+Solution:
+1.	Select the data range.
+2.	Go to Data > Remove Duplicates.
+3.	Select which columns to check for duplicates and click OK.
