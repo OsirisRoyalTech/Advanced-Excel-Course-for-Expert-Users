@@ -1,0 +1,4 @@
+Problem: You want to create a chart that updates automatically when new data is added to the dataset.
+
+Solution:
+Use Tables to create a dynamic chart. As new data is added to the table, the chart updates automatically.
