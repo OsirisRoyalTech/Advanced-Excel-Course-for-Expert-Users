@@ -1,0 +1,6 @@
+Problem: You want to highlight sales amounts that are greater than the target value.
+
+Solution:
+1.	Select the sales data range.
+2.	Go to Home > Conditional Formatting > Highlight Cell Rules > Greater Than.
+3.	Enter the target value and choose a formatting style.
