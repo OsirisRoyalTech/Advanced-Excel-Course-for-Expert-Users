@@ -1,0 +1,5 @@
+Problem: You want to calculate the average sales for a specific month.
+
+Solution:
+=AVERAGEIF(A1:A30, "January", B1:B30)
+Where A1:A30 is the date range, and B1:B30 is the sales range.
