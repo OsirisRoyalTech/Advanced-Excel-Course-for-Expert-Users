@@ -1,0 +1,6 @@
+Problem: You want to import data from a CSV file into Excel for further analysis.
+
+Solution:
+1.	Go to the Data tab.
+2.	Select Get Data > From File > From Text/CSV.
+3.	Select the file and follow the prompts to load it into Excel.
