@@ -1,0 +1,6 @@
+Problem: You want to filter data to exclude empty cells.
+
+Solution:
+1.	Select your data range.
+2.	Go to Data > Filter.
+3.	Use the filter dropdown to uncheck Blanks.
