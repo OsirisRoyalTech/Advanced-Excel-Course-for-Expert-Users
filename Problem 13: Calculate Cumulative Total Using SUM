@@ -1,0 +1,5 @@
+Problem: You want to calculate the cumulative total for a series of numbers.
+
+Solution:
+=SUM($B$1:B1)
+Drag this formula down the column to calculate the running total.
