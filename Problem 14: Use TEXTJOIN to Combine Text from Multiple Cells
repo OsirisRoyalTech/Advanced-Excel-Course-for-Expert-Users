@@ -1,0 +1,5 @@
+Problem: You want to combine text from multiple cells into one cell, separated by a comma.
+
+Solution:
+=TEXTJOIN(",", TRUE, A1:A5)
+This combines the values in cells A1 through A5 with commas in between.
