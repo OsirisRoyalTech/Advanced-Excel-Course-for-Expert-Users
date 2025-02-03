@@ -1,0 +1,5 @@
+Problem: You want to consolidate data from several sheets into one.
+
+Solution:
+1.	Go to Data > Get Data > From Other Sources > Blank Query.
+2.	In the Power Query editor, use Append Queries to combine the data from multiple sheets.
