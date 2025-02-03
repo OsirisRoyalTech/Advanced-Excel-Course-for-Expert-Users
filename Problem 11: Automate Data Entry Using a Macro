@@ -1,0 +1,6 @@
+Problem: You frequently need to format data in a specific way and want to automate the process.
+
+Solution:
+1.	Go to Developer > Record Macro.
+2.	Perform the actions you want to automate.
+3.	Stop recording and assign the macro to a button or shortcut.
