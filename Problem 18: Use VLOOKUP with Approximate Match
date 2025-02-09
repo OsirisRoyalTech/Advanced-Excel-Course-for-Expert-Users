@@ -1,0 +1,5 @@
+Problem: You want to lookup a value in a table and return the nearest match.
+
+Solution:
+=VLOOKUP(A2, B1:C10, 2, TRUE)
+This will find the nearest match for A2 within the range B1:B10.
