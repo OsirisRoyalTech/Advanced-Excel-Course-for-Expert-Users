@@ -1,0 +1,5 @@
+Problem: You want to create a dynamic range that expands as data is added.
+
+Solution:
+=OFFSET(A1, 0, 0, COUNTA(A:A), 1)
+This defines a dynamic range starting from A1 and extending based on the number of non-empty cells in column A.
