@@ -1,0 +1,5 @@
+Problem: You want to find a value based on both a row and a column.
+
+Solution:
+=INDEX(B1:D10, MATCH(A1, A1:A10, 0), MATCH(B1, B1:D1, 0))
+This returns the value from the intersection of row and column specified by A1 and B1.
