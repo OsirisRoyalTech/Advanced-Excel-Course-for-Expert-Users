@@ -1,0 +1,5 @@
+Problem: You want to calculate the weighted average for a set of values.
+
+Solution:
+=SUMPRODUCT(A1:A10, B1:B10) / SUM(B1:B10)
+Where A1:A10 are the values, and B1:B10 are the weights.
