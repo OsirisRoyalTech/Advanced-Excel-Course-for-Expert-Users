@@ -1,0 +1,6 @@
+Problem: You want to create a histogram from a data range.
+
+Solution:
+1.	Go to File > Options > Add-ins and enable the Analysis ToolPak.
+2.	Go to Data > Data Analysis > Histogram.
+3.	Select the input range and bin range, then click OK.
