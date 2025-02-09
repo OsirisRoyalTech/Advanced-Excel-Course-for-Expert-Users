@@ -1,0 +1,7 @@
+Problem: You want to optimize a product mix to maximize profit while considering constraints (e.g., production capacity).
+
+Solution:
+1.	Go to Data > Solver.
+2.	Set the objective cell to maximize profit.
+3.	Set constraints (e.g., production limits).
+4.	Click Solve.
