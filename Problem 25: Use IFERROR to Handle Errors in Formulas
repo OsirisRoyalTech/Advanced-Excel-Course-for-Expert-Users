@@ -1,0 +1,4 @@
+Problem: You want to return a custom message when a formula results in an error.
+
+Solution:
+=IFERROR(VLOOKUP(A1, B1:C10, 2, FALSE), "Not Found")
