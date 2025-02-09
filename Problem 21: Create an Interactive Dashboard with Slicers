@@ -1,0 +1,6 @@
+Problem: You want to create an interactive dashboard where users can filter data.
+
+Solution:
+1.	Create a Pivot Table and Pivot Chart.
+2.	Go to Insert > Slicer and select fields to filter.
+3.	Connect the slicers to the Pivot Table and chart.
