@@ -1,0 +1,6 @@
+Problem: You want to create a drop-down list of options in a cell.
+
+Solution:
+1.	Select the cell.
+2.	Go to Data > Data Validation > List.
+3.	Enter the options, separated by commas.
